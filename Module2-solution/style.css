@@ -22,28 +22,28 @@ p {
   width: 100%;
 }
 
-.row .tag {
+.row .sectionTitle {
   position: absolute;
   right: 0;
   top: 0;
   width: 100px;
-  border-left: 2px solid black;
-  border-bottom: 2px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
-.row .tag .tagStyle{
+.row .sectionTitle .sectionTitleStyle{
   border: 0px;
   margin: 0px;
   text-align: center;
 }
 
-.menuItems{
+.section{
+  position: relative;
+  box-sizing: border-box;
   background-color: #313649;
   padding: 10px;
-  box-sizing: border-box;
-  border: 2px solid black;
+  border: 1px solid black;
   margin: 10px;
-  position: relative;
 }
 
 .chickenColor{
