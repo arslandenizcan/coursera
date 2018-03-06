@@ -46,6 +46,18 @@ p {
   position: relative;
 }
 
+.chickenColor{
+  background-color: #805C15;
+}
+
+.beefColor{
+  background-color: #57000A;
+}
+
+.sushiColor{
+  background-color: #02482A
+}
+
 /********** Desktop **********/
 @media (min-width: 992px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
